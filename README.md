@@ -6,7 +6,7 @@ I'm a DevOps Engineer with over 2.5 years of experience in cloud automation, CI/
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a Member of Technical Staff at Edgeverve System Ltd., Bengaluru
+- 🔭 I'm currently working as Devops Engineer in an product based company.
 - 🌱 I'm passionate about streamlining cloud operations and enhancing CI/CD processes
 - 💼 I have experience working with AWS, GCP, and Azure platforms
 - 🏆 Recipient of the Stellar Award for creating a significant cultural impact within my organization
