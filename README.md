@@ -36,7 +36,6 @@ I'm a DevOps Engineer with over 2.5 years of experience in cloud automation, CI/
 
 - Email: ramsaikcp@gmail.com
 - LinkedIn: [Ramsai Krishna Prattipati](https://www.linkedin.com/in/ramsai-krishna-prattipati-50322218b)
-- Phone: +917981356652
 
 ## 📜 Certifications
 
