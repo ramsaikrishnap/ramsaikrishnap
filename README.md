@@ -3,6 +3,7 @@
 ## 👋 Hello, I'm Ramsai!
 
 I'm a DevOps Engineer with over 2.5 years of experience in cloud automation, CI/CD implementation, and infrastructure management. Welcome to my GitHub repository!
+Presently upgrading my skills in terraform,ansible,k8s,argo and jenkins.
 
 ## 🚀 About Me
 
