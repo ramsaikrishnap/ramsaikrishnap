@@ -3,7 +3,7 @@
 ## 👋 Hello, I'm Ramsai!
 
 I'm a DevOps Engineer with over 2.5 years of experience in cloud automation, CI/CD implementation, and infrastructure management. Welcome to my GitHub repository!
-Presently upgrading my skills in terraform,ansible,k8s,argo and jenkins.
+Presently upgrading my skills in Terraform,Ansible,K8s,ArgoCD and Jenkins.
 
 ## 🚀 About Me
 
@@ -32,6 +32,8 @@ Presently upgrading my skills in terraform,ansible,k8s,argo and jenkins.
 - Led the implementation of CI/CD pipelines using Jenkins
 - Engineered Content Security Policy measures, ensuring compliance with organizational standards
 
+## Repositories
+- Check out my repository on terraform https://github.com/ramsaikrishnap/terraform
 
 ## 📫 How to reach me
 
