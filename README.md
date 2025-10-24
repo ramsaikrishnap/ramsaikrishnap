@@ -5,7 +5,7 @@
 
 ## 🚀 DevOps Engineer | Cloud Automation Specialist
 
-With over 2.5 years of experience in cloud automation, CI/CD implementation, and infrastructure management, I'm passionate about streamlining cloud operations and enhancing CI/CD processes. Currently, I'm upgrading my skills in Terraform, Ansible, Kubernetes, ArgoCD, and Jenkins.
+With over 3.6 years of experience in cloud automation, CI/CD implementation, and infrastructure management, I'm passionate about streamlining cloud operations and enhancing CI/CD processes. Currently, I'm upgrading my skills in Terraform, Ansible, Kubernetes, ArgoCD, and Jenkins.
 
 ### 🏆 Achievements
 - Recipient of the **Stellar Award** for creating a significant cultural impact within my organization
@@ -28,6 +28,7 @@ With over 2.5 years of experience in cloud automation, CI/CD implementation, and
 | Version Control | ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 | Monitoring | ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
 | Web Servers | ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
+| Messaging Queues | RabbitMQ AzureEventBus |
 
 ## 📚 Featured Repositories
 
